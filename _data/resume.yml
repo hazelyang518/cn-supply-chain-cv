@@ -53,8 +53,8 @@ main: #简历主要内容，
     items: #itmems 可以小块的方式显示
     - <font face="等线">编程语言：SQL Python</font>
     # - <font face="等线">原型工具：统计学, 具备设计和执行A/B实验的能力 </font>
-    - <font face="等线">数据科学能力：掌握统计学原理, 能设计和执行A/B实验 </font>
-    # - 数据可视化：Power BI, Tableau
+    # - <font face="等线">数据科学能力：掌握统计学原理, 能设计和执行A/B实验 </font>
+    - 数据可视化：Power BI, Tableau, Dash Plotly
     - <font face="等线">大数据工具：Hadoop, Spark, Hive, Mysql, Presto, OLAP (Clickhouse, Elasticsearch)</font>
   - title: <font face="华文细黑粗体">经验总结</font>
   
@@ -88,7 +88,7 @@ main: #简历主要内容，
     tags:
     - <font face="黑体">用户画像体系构建</font>
     - <font face="黑体">标签数据链路搭建</font>
-    - <font face="黑体">实验配置</font>
+    # - <font face="黑体">实验配置</font>
     - <font face="黑体">运营推广</font>
     - <font face="黑体">服务落地</font>
     # - SQL/Python
